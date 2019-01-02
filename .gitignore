@@ -5,3 +5,6 @@
 build/*
 dist/*
 uisrnn.egg-info/*
+venv
+*.iml
+.idea
